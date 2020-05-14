@@ -10,3 +10,7 @@ def adding(numbers, sum):
 
 
 print(adding([10, 15, 3, 8, 234, 345, 6345, 234, 67, 391], 400))
+
+# if __name__ == "__main__":
+#     assert True == adding([10, 15, 3, 7],17)
+#     assert False == adding([10, 15, 3, 6],17)
